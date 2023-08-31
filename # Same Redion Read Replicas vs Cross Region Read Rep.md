@@ -7,3 +7,4 @@ Read replicas are copied asynchronously from your primary database, you route qu
 
 <img width="1123" alt="Screenshot 2023-08-31 at 16 24 00" src="https://github.com/McTello/Read-Replica-vs-Cross-Region-Replicas/assets/89931817/dad41911-45bf-4c1c-86a9-66f4218f754d">
 
+
