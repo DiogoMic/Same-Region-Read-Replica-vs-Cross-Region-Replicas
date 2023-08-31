@@ -8,3 +8,9 @@ Read replicas are copied asynchronously from your primary database, you route qu
 <img width="1123" alt="Screenshot 2023-08-31 at 16 24 00" src="https://github.com/McTello/Read-Replica-vs-Cross-Region-Replicas/assets/89931817/dad41911-45bf-4c1c-86a9-66f4218f754d">
 
 
+
+With Amazon
+
+
+<img width="1093" alt="Screenshot 2023-08-31 at 16 37 19" src="https://github.com/McTello/Same-Region-Read-Replica-vs-Cross-Region-Replicas/assets/89931817/14a17fc8-4ab7-4c2d-b42b-cfe969466c74">
+
