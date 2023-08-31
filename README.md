@@ -1,1 +1,1 @@
-# Read-Replica-vs-Cross-Region-Replicas
+# Same Region Read-Replica-vs-Cross-Region-Replicas
