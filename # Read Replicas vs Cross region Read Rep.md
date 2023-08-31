@@ -5,4 +5,5 @@ Read replica are a great way to scale horizontally for high availability in a re
 Read replicas are copied asynchronously from your primary database, you route queries to the read replica to reduce the workload off a single database.
 
 
-<img width="1135" alt="Read Replica vs Cross region replica" src="https://github.com/McTello/Read-Replica-vs-Cross-Region-Replicas/assets/89931817/d1d0ccdb-7f84-4256-ae16-b37b606c7e51">
+<img width="1123" alt="Screenshot 2023-08-31 at 16 24 00" src="https://github.com/McTello/Read-Replica-vs-Cross-Region-Replicas/assets/89931817/dad41911-45bf-4c1c-86a9-66f4218f754d">
+
