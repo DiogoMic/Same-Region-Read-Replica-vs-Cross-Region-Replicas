@@ -9,7 +9,7 @@ Read replicas are copied asynchronously from your primary database, you route qu
 
 
 
-With Amazon
+With Amazon RDS, you can create a MariaDB, Aurora MySQL, MySQL, Oracle or PostgreSQL read replica in different region from the source database instance. Creating a cross-region read replica is noe supported fro SQL server on Amazon RDS.
 
 
 <img width="1093" alt="Screenshot 2023-08-31 at 16 37 19" src="https://github.com/McTello/Same-Region-Read-Replica-vs-Cross-Region-Replicas/assets/89931817/14a17fc8-4ab7-4c2d-b42b-cfe969466c74">
